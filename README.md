@@ -1,4 +1,4 @@
-# WiCyS × Ex0rcists CTF Challenge Walkthrough 🏴‍☠️
+# WiCyS × Ex0rcists CTF Challenge Walkthrough
 
 **10 Days CTF Challenge — Cyber Awareness Month 2026**
 
@@ -8,7 +8,7 @@ This repository contains my challenge write-ups, solutions, and learnings throug
 
 ### Organizers
 - **WiCyS St. Joseph's Group of Institutions:** [LinkedIn](https://www.linkedin.com/company/wicys-stjosephs-group-of-institutions)
-- **Ex0rcists:** [LinkedIn](https://www.linkedin.com/company/ex0rcists)
+- **Ex0rcists:** [LinkedIn](https://www.linkedin.com/company/ex0rcists) [Ex0rcists]([https://ex0rcists.in/))
 
 ---
 
