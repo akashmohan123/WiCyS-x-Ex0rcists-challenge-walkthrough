@@ -1,6 +1,6 @@
 # WiCyS × Ex0rcists CTF Challenge Walkthrough
 
-**10 Days CTF Challenge — Cyber Awareness Month 2026**
+**10 Days CTF Challenge - Cyber Awareness Month 2026**
 
 Participating in the **10 Days CTF Challenge**, organized by **WiCyS St. Joseph's Group of Institutions** in collaboration with **Ex0rcists**, as part of Cyber Awareness Month.
 
