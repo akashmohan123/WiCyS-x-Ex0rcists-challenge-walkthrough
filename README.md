@@ -12,4 +12,12 @@ This repository contains my challenge write-ups, solutions, and learnings throug
 
 ---
 
-*Documenting my CTF journey.*
+### Walkthrough - [Full Walkthrough](walkthrough/Walkthrough.md)
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CTF-Walkthroughs-39FF14?style=for-the-badge&labelColor=0d1117" alt="CTF Walkthroughs">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00BFFF?style=for-the-badge&labelColor=0d1117" alt="Cybersecurity">
+</p>
