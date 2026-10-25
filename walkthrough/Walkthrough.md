@@ -887,7 +887,7 @@ So the order is
 And so yeah, the flag is
 
 ```jsx
-WiCySxEx0rcists{[zoo-leipzig](https://www.zoo-leipzig.de/en/your-visit/map-of-the-zoo/)}
+WiCySxEx0rcists{zoo_leipzig}
 ```
 
 ………………………………………………….
