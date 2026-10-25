@@ -1,6 +1,6 @@
 # Walkthrough
 
-# Day 1 Challenge -**A Picture Is Worth Two Fragments.
+# Day 1 Challenge -A Picture Is Worth Two Fragments.
 
 ## **Challenge Info**
 
